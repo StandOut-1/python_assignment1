@@ -1,7 +1,9 @@
 # 🐍 파이썬 과제 1 (python_assignment1)
 
 SK Playdata 과정 5월 4일 파이썬 기초 과제 수행 저장소입니다.
+
 DAY04 상세기록 - 블로그: https://standout.tistory.com/1663
+
 DAY04 상세기록 - 깃: https://github.com/StandOut-0/Study-AI/commits/day4
 
 ## 📂 프로젝트 구조
