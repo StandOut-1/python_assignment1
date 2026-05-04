@@ -1,0 +1,6 @@
+# .pyc 파일 전체 제외
+*.pyc
+
+# __pycache__ 폴더 전체 제외
+__pycache__/
+*.py[cod]
